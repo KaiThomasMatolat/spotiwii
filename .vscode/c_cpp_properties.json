@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\devkitPro\\libogc\\include",
+                "C:/devkitPro/libogc/include/ogc",
+                "C:\\devkitPro\\devkitPPC\\powerpc-eabi\\include",
+                "C:\\devkitPro\\devkitPPC\\powerpc-eabi\\include\\jpeg"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
